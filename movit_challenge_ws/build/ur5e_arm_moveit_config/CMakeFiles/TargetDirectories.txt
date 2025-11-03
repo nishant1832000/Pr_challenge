@@ -1,0 +1,9 @@
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/uninstall.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/ur5e_arm_moveit_config_uninstall.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/test.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/edit_cache.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/rebuild_cache.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/list_install_components.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/install.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/install/local.dir
+/home/svaya/Pr_challenge/movit_challenge_ws/build/ur5e_arm_moveit_config/CMakeFiles/install/strip.dir
